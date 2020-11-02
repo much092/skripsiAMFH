@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/40815583/downloading-data-files-with-react-native-for-offline-use
